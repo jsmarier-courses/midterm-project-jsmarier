@@ -1,5 +1,5 @@
-**Date**<br>
-**Course Code & Course Name**<br>
+**November 4, 2024**<br>
+**MPAD2003 Introductory Data Storytelling**<br>
 **Student's First Name & Last Name**<br>
 **Presented to Jean-Sébastien Marier**<br>
 
